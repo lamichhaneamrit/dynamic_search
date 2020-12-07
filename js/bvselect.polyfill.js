@@ -1,10 +1,7 @@
 /*
 #
 #  BVSelect - VanillaJS Fully Customizable Selectboxes
-#  polyfill Version
-#  Build: v1.3
-#
-#  Developed by Bruno Vieira
+#  
 #
 */
 
